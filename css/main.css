@@ -81,8 +81,9 @@ h3{
 a{
   font-size: 10px;
   font-weight: bold;
+  border: 3px solid pink;
+  flex-grow: 1;
   align-self: center;
-  flex-grow: 2;
   text-align: right;
 }
 
